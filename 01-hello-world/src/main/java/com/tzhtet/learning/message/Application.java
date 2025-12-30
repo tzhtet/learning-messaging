@@ -1,4 +1,4 @@
-package com.tzhtet.learning;
+package com.tzhtet.learning.message;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
