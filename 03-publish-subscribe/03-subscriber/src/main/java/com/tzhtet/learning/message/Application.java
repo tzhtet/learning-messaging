@@ -13,7 +13,7 @@ public class Application {
 	
 	@Bean
 	FanoutExchange exchange() {
-		return new FanoutExchange("com.tzhet.ps");
+		return new FanoutExchange("com.jdc.ps");
 	}
 	
 	@Bean
